@@ -1,0 +1,32 @@
+.home-container {
+    font-family: "Roboto", sans-serif;
+    margin: 179px 450px 250px 203px;
+}
+
+.container-title {
+    font-weight: bold;
+    font-size: 48px;
+    line-height: 64px;
+    display: flex;
+    align-items: center;
+    letter-spacing: 0.02em;
+    color: #062847;
+}
+
+.description {
+    margin-top: 25px;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 20px;
+    line-height: 36px;
+    color: #5a6774;
+}
+
+.margin-bottom-25 {
+    margin-top: 25px;
+}
+
+.home-email {
+    color: #1890FF;
+    text-decoration: none;
+}

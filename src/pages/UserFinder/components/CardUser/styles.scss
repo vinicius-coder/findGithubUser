@@ -1,0 +1,75 @@
+.container-user {
+    height: 387px;
+    background: #f5f5f5;
+    border-radius: 8px;
+    margin: 54px 100px 0 90px;
+    padding-top: 23px;
+}
+
+.user-image {
+    float: left;
+    height: 280px;
+    width: 284px;
+    background: black;
+    margin: 0px 45px 0px 0px;
+}
+
+.card-user-repo {
+    float: left;
+    width: 163px;
+    height: 22px;
+    background: #ffffff;
+    border: 1px solid #d9d9d9;
+    box-sizing: border-box;
+    border-radius: 5px;
+    margin-right: 5px;
+    padding-left: 14px;
+    font-size: 12px;
+    line-height: 20px;
+    color: #595959;
+}
+
+.card-user-info {
+    float: left;
+    height: 247px;
+    width: 870px;
+    border-radius: 6px;
+    background: #ffffff;
+    margin-top: 10px;
+    border: 1px solid #d9d9d9;
+    box-sizing: border-box;
+    border-radius: 6px;
+    padding: 8px 0px 0px 14px;
+}
+
+.card-user-title {
+    font-weight: 500;
+    font-size: 20px;
+    line-height: 28px;
+    align-items: center;
+    color: #1890ff;
+    margin-bottom: 19px;
+}
+
+.card-user-details {
+    height: 40px;
+    width: 839px;
+    border-radius: 4px;
+    background: #ffffff;
+    border: 1px solid #d9d9d9;
+    box-sizing: border-box;
+    border-radius: 4px;
+    padding: 8px 0 0 10px;
+    font-weight: bold;
+    font-size: 16px;
+    line-height: 24px;
+    align-items: center;
+    color: #737373;
+    margin-top: 5px;
+}
+
+.btn-perfil {
+    position: absolute;
+    top: 320px;
+    border-radius: 4px;
+}

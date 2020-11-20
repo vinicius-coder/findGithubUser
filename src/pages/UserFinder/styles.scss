@@ -1,0 +1,35 @@
+.userFinder-container {
+    font-family: "Roboto", sans-serif;
+    margin: 55px 100px 0px 90px;
+    height: 310px;
+    background: #e6f7ff;
+    border-radius: 16px;
+    padding: 66px 0 0 94px;
+}
+
+.finder-container-title {
+    font-style: normal;
+    font-weight: 500;
+    font-size: 38px;
+    line-height: 46px;
+    color: #262626;
+    padding-bottom: 12px;
+}
+
+.input-githubName {
+
+    background: #ffffff;
+    border: 1px solid #d9d9d9;
+    box-sizing: border-box;
+    border-radius: 4px;
+    margin-bottom: 25px;
+
+    &::placeholder {
+        font-weight: normal;
+        font-size: 16px;
+        line-height: 24px;
+        display: flex;
+        align-items: center;
+        color: #bfbfbf;
+    }
+}
